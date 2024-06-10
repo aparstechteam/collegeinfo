@@ -1,1 +1,0 @@
-import{_ as s,c as o,P as a,a as e,o as c}from"./AfiQWu9K.js";const n={},l=e("div",{class:"py-5"},[e("h2",{class:"text-center text-xl font-semibold"}," College Information Desk ")],-1);function r(t,d){return c(),o("div",null,[l,a(t.$slots,"default")])}const f=s(n,[["render",r]]);export{f as default};
